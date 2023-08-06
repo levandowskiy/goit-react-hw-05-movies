@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.f8524c49.css","mappings":"AAAA,OACI,qBAAuB,CACvB,YACJ,CAEA,IACI,YAAa,CACb,QACJ,CAEA,MACI,oBACJ","sources":["components/Layout/Layout.css"],"sourcesContent":["header {\n    border: 1px black solid;\n    padding: 20px;\n}\n\nnav {\n    display: flex;\n    gap: 10px;\n}\n\nnav a {\n    text-decoration: none;\n}"],"names":[],"sourceRoot":""}
