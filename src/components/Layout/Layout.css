@@ -1,0 +1,13 @@
+header {
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    gap: 10px;
+}
+
+nav a {
+    text-decoration: none;
+}
